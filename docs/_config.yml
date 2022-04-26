@@ -19,16 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Projekte von Enrico Koschel
+author: Enrico Koschel
 email: enricokoschel02@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Auf dieser Webseite finden Sie alle Projekte von mir.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  enricoKoschel
+github_username: enricoKoschel
 
 # Build settings
-theme: jekyll-theme-midnight #theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
