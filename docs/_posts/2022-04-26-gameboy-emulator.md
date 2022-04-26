@@ -6,7 +6,7 @@ date:   2022-04-26 00:00:00 +0200
 
 <h3><a href="https://github.com/enricoKoschel/GameboyEmulator">Gameboy Emulator auf GitHub</a></h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sJOJbylsR-M"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mYNrysJbln8"
 frameborder="0" allowfullscreen></iframe>
 Video des Gameboy Emulators während <i>Super Mario Land</i> emuliert wird.
 
