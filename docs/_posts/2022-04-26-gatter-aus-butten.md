@@ -11,7 +11,8 @@ frameborder="0" allowfullscreen></iframe>
 Video von einem kompletten Spiel.
 
 <br>
-Gatter aus Butten ist ein Schiffe-Versenken Spiel geschrieben in Java. Das Ziel des Spiels ist es alle Schiffe des Gegners zu finden und zu zerstören.
+Gatter aus Butten ist ein Schiffe-Versenken Spiel geschrieben in Java. Es benutzt für die grafische Ausgabe die [Processing-Library](https://processing.org/de/)
+und für das Einstellungsmenü [Java-Swing](https://de.wikipedia.org/wiki/Swing_(Java)). Das Ziel des Spiels ist es alle Schiffe des Gegners zu finden und zu zerstören.
 
 Einige Features sind:
 <ul>

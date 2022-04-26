@@ -12,6 +12,7 @@ Video des Gameboy Emulators während <i>Super Mario Land</i> emuliert wird.
 
 <br>
 Der Gameboy Emulator ist mein bis jetzt größtes und umfangreichstes Projekt.
+Er ist in C# geschrieben und benutzt für die grafische Ausgabe, den User-Input und den Sound [SFML](https://www.sfml-dev.org).
 
 Einige Features sind:
 <ul>
