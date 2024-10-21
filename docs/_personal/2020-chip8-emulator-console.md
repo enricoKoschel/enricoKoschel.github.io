@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chip-8 Emulator [C++]"
-date:   2022-04-26 05:00:00 +0200
+title:  "Chip-8 Emulator (Konsolenbasiert) [C++]"
+year:   2020
 ---
 
 <h3><a href="https://github.com/enricoKoschel/chip8Emulator">Chip-8 Emulator auf GitHub</a></h3>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gameboy Emulator [C#]"
-date:   2022-04-26 08:00:00 +0200
+year:   2020 - 2022
 ---
 
 <h3><a href="https://github.com/enricoKoschel/GameboyEmulator">Gameboy Emulator auf GitHub</a></h3>
